@@ -1,0 +1,42 @@
+#content{ 
+    background: url(Pics/Background.png) no-repeat; 
+    background-size: cover;
+    height: 100%; 
+    width: 100%; 
+    color: white;
+} 
+
+.top-buffer { 
+    padding-top: 150px; 
+}  
+
+.top-buffer2 { 
+    padding-top: 70px; 
+}  
+
+.top-buffer3{ 
+    margin-top: 15px; 
+    width: 150%; 
+    left: -25%; 
+}
+
+.bottom-buffer{ 
+    padding-bottom: 50px;
+}
+
+h1{ 
+    font-size: 80px;
+} 
+
+span{ 
+    color:blueviolet;
+}
+
+.btn-primary{ 
+    background: blueviolet; 
+    outline: none;
+} 
+
+.line-up{ 
+    bottom: 200px;
+} 
